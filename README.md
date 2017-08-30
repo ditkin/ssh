@@ -1,6 +1,6 @@
 The purpose of this script is to make sshing easier.
 
-You will probably only find this useful as a sysadmin or someone who must frequently ssh into many instances.
+You will probably only find this useful as a sysadmin, release engineer, or other DevOps professional. Or just someone who must frequently ssh into many instances.
 
 It will try to append a configured list of prefixes, as well as postpend a configured list of suffixes, to the hostname you entered if it cannot find the host.
 
